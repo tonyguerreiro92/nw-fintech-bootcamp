@@ -1,4 +1,4 @@
-# Toast, Inc.
+# Toast, Inc Case Study.
 
 ## Overview and Origin
 
@@ -89,5 +89,15 @@ I would suggest
 
 
 * Why are these technologies appropriate for your solution?
+
+## Sources
+
+* https://pos.toasttab.com/
+* https://fintechmagazine.com/venture-capital/fintech-profile-toast-cloud-based-digital-innovator
+* https://techcrunch.com/2020/04/07/restaurant-management-platform-toast-cuts-50-of-staff/
+* https://www.crunchbase.com/organization/toast
+* https://www.slintel.com/company/toast-inc/5c3b0151d55ae49f1b77ad91
+
+
 
 
