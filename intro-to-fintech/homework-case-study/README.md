@@ -77,7 +77,8 @@ It has homogenized payments in the restaurant industry. In my personal experienc
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
-<iframe height="600px" width="800px" src="https://craft.co/embed/v1/companies/toast/job_categories"/>
+![alt text](./metrics-1.png)
+
 
 * How is your company performing relative to competitors in the same domain?
 
