@@ -77,7 +77,7 @@ It has homogenized payments in the restaurant industry. In my personal experienc
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
-
+<iframe height="600px" width="800px" src="https://craft.co/embed/v1/companies/toast/job_categories"/>
 
 * How is your company performing relative to competitors in the same domain?
 
@@ -109,6 +109,9 @@ Because when you start analyzing the data from the user, you would need to know 
 * https://www.crunchbase.com/organization/toast
 * https://www.slintel.com/company/toast-inc/5c3b0151d55ae49f1b77ad91
 * https://docs.google.com/presentation/d/1_7OIXTJY_Yli-E9KO7n4ZlGcylu9IMEsvJuFkhYivpc/edit#slide=id.g5ecf7ad488_5_367
+* https://pitchbook.com/profiles/company/121295-62
+* https://edgebase.fabernovel.com/companies/toast--inc 
+* https://craft.co/toast 
 
 
 
