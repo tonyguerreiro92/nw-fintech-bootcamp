@@ -83,7 +83,6 @@ It has homogenized payments in the restaurant industry. In my personal experienc
 ![alt text](./metrics-4.png)
 ![alt text](./metrics-5.png)
 ![alt text](./metrics-6.png)
-![alt text](./metrics-7.png)
 ![alt text](./metrics-8.png)
 
 Source: https://craft.co/toast
@@ -92,6 +91,7 @@ Source: https://craft.co/toast
 * How is your company performing relative to competitors in the same domain?
 
 ![alt text](./competition.png)
+![alt text](./competition-2.png)
 
 Source: https://craft.co/toast
 
